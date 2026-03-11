@@ -1,0 +1,2 @@
+# 单元测试需要的库（Python自带unittest，这里可选pytest更易用）
+pytest>=7.0.0
